@@ -7,5 +7,6 @@ usage:
 ```git clone https://github.com/everyonehatesvludd/bloodbank-docker``` 
 ```cd bloodbank-docker```
 ```docker-compose up```
+by default available on localhost
 
 project source - https://github.com/mentorchita/Blood-Bank-Management-System
